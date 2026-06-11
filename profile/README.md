@@ -88,7 +88,6 @@ by transforming unstructured communication into actionable missions.
 |------------|-------------|
 | [`sahyogsync-client`](https://github.com/SahyogSync-OS/sahyogsync-client) | Frontend dashboard & user interface |
 | [`sahyogsync-server`](https://github.com/SahyogSync-OS/sahyogsync-server) | Backend infrastructure & AI services |
-| [`sahyogsync-docs`](https://github.com/SahyogSync-OS/sahyogsync-docs) | Architecture, documentation & workflows |
 
 ---
 
